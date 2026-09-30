@@ -1,0 +1,8 @@
+# Contraseñas: NUNCA subir ni compartir
+.env
+.env.*
+!.env.*.example
+
+__pycache__/
+*.pyc
+.venv/
